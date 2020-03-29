@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VeritranSystemBankApp</string>
+    <string name="que_vamos_hacer_hoy">¿QUE VAMOS HACER HOY?</string>
+    <string name="nombre_cliente">Nombre Cliente</string>
+    <string name="no_cuenta">No. Cuenta</string>
+    <string name="saldo_actual">Saldo actual</string>
+    <string name="adicionar_saldo">Adicionar saldo</string>
+    <string name="retirar_saldo">Retirar Saldo</string>
+    <string name="transferencia">TRANSFERENCIA</string>
+    <string name="bienvenido_a_la_zona_transaccional">BIENVENIDO A LA ZONA TRANSACCIONAL</string>
+</resources>
